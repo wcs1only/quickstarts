@@ -161,7 +161,7 @@ expected_stdout_lines:
   - "✅  Exited App successfully"
 expected_stderr_lines:
 background: true
-sleep: 60
+sleep: 160
 env:
   CI: "false"
 -->
